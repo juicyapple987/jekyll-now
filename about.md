@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Seb Mellows
+permalink: /Seb Mellows/
 ---
 
-Some information about you!
+The most handsome and beautiful human bing who is so intelligent he lest school atthe age of two.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love sport, Football, Hockey, Badminton... etc and I'm amazing at coding, OBVIOUSLY.
 
 ### Contact me
 
